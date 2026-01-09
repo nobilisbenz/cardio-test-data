@@ -1,16 +1,1 @@
-[
-  {
-    "id": "152095ef-e9e4-4b3a-a067-4486a14afebc",
-    "patient_id": "9fe68a63-f2e2-4d25-b8b1-e9e91a81d1ed",
-    "date": "2026-01-09T15:32:24.321341541",
-    "data": "[{\"id\":\"f3c78934-6a45-4efa-b0bc-ea47c47ed82a\",\"name\":\"cool\",\"dosage\":\"12\",\"form\":null,\"instructions\":\"1 par jour - a cooler\",\"is_favorite\":false}]",
-    "pdf_path": "/home/nabi/.local/share/com.nabi.tauri-app/prescriptions/prescription_lec_20260109_153224.pdf"
-  },
-  {
-    "id": "42dddda3-1277-4703-b8c4-7cf0363c9876",
-    "patient_id": "53eb4447-b87d-4372-81f2-503f2b39ef5f",
-    "date": "2026-01-09T20:31:44.913029882",
-    "data": "[{\"id\":\"e8e208f9-3eb8-44c8-9fd4-7712ce935cdf\",\"name\":\"hello\",\"dosage\":\"11\",\"form\":null,\"instructions\":\"1 par jour - c\",\"is_favorite\":false},{\"id\":\"8526790f-f896-4916-a3fb-b02c66928a90\",\"name\":\"cool\",\"dosage\":\"12\",\"form\":null,\"instructions\":\"1 par jour - a cooler\",\"is_favorite\":false}]",
-    "pdf_path": "/home/nabi/.local/share/com.nabi.tauri-app/prescriptions/prescription_lec_20260109_203144.pdf"
-  }
-]
+[]
