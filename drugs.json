@@ -6,5 +6,13 @@
     "form": "d",
     "instructions": "dd",
     "is_favorite": false
+  },
+  {
+    "id": "d93062f3-366f-4b10-9ee7-83f89dd7361b",
+    "name": "med 2",
+    "dosage": "2",
+    "form": "c",
+    "instructions": "",
+    "is_favorite": true
   }
 ]
