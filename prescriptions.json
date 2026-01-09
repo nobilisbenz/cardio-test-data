@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "8ebdc360-f70d-49e3-82ce-123ccbe165ed",
+    "patient_id": "a748f170-1a04-4b68-8156-ab6a9307818c",
+    "date": "2026-01-09T20:51:59.767814059",
+    "data": "[{\"id\":\"1e6fe03c-f01b-4d99-942b-ac4e92a3b6ae\",\"name\":\"med 1\",\"dosage\":\"1\",\"form\":null,\"instructions\":\"1 par jour - dd\",\"is_favorite\":false}]",
+    "pdf_path": "/home/nabi/.local/share/com.nabi.tauri-app/prescriptions/prescription_one_20260109_205159.pdf"
+  }
+]
