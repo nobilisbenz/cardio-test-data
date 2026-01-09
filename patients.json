@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "a748f170-1a04-4b68-8156-ab6a9307818c",
+    "first_name": "patient",
+    "last_name": "one",
+    "age": 28,
+    "address": "aa",
+    "created_at": "2026-01-09T19:42:02"
+  }
+]
