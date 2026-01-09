@@ -1,18 +1,10 @@
 [
   {
-    "id": "3f1796ca-1bf5-4895-bd39-1c20238399d7",
-    "name": "cool",
-    "dosage": "12",
-    "form": "sirop",
-    "instructions": "a cooler",
-    "is_favorite": false
-  },
-  {
-    "id": "851ddce4-06fb-4c44-bb6f-c99efd1eab97",
-    "name": "hello",
-    "dosage": "11",
-    "form": "pool",
-    "instructions": "c",
+    "id": "a12fb9dd-91a1-471f-b328-d917365e81dd",
+    "name": "med 1",
+    "dosage": "1",
+    "form": "d",
+    "instructions": "dd",
     "is_favorite": false
   }
 ]
