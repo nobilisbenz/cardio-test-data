@@ -14,5 +14,13 @@
     "age": 29,
     "address": "afdasf",
     "created_at": "2026-01-09T19:42:20"
+  },
+  {
+    "id": "57576f7c-1538-4644-b904-3912a976b7b7",
+    "first_name": "",
+    "last_name": "",
+    "age": null,
+    "address": "",
+    "created_at": "2026-01-11T15:00:15"
   }
 ]
