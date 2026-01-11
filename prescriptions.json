@@ -47,5 +47,12 @@
     "date": "2026-01-11T16:15:07.590223735",
     "data": "[{\"id\":\"6b4b6eb9-25c0-4718-8121-a1b5fb9b2ad4\",\"name\":\"med 2\",\"dosage\":\"2\",\"form\":null,\"instructions\":\"1 par jour - \",\"is_favorite\":false}]",
     "pdf_path": "/home/nabi/Downloads/test1.pdf"
+  },
+  {
+    "id": "fe682be5-bbc4-4bee-8d11-c990a17183ee",
+    "patient_id": "57576f7c-1538-4644-b904-3912a976b7b7",
+    "date": "2026-01-11T16:33:40.640374722",
+    "data": "[{\"id\":\"cb488f01-efc4-4df1-9e8c-0df92acccaea\",\"name\":\"med 1\",\"dosage\":\"1\",\"form\":null,\"instructions\":\"1 par jour - dd\",\"is_favorite\":false},{\"id\":\"9c96431d-5fc2-4bce-a6c8-1d2f80575bf5\",\"name\":\"med 2\",\"dosage\":\"2\",\"form\":null,\"instructions\":\"1 par jour - \",\"is_favorite\":false}]",
+    "pdf_path": "/home/nabi/Downloads/prescription_Bensalem_20260111.pdf"
   }
 ]
