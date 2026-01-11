@@ -33,5 +33,12 @@
     "date": "2026-01-11T16:10:43.494600045",
     "data": "[{\"id\":\"7c8f59ce-ab4b-452a-a963-8a5d22129806\",\"name\":\"med 1\",\"dosage\":\"2\",\"form\":null,\"instructions\":\"1 par jour - cc\",\"is_favorite\":false}]",
     "pdf_path": "/home/nabi/.local/share/com.nabi.tauri-app/prescriptions/prescription_one_20260111_161043.pdf"
+  },
+  {
+    "id": "8e9f1750-5853-4ed0-beef-c39b029fa8f0",
+    "patient_id": "a748f170-1a04-4b68-8156-ab6a9307818c",
+    "date": "2026-01-11T16:11:49.247016552",
+    "data": "[{\"id\":\"2a65fc25-b363-419d-83c8-998dce25dedf\",\"name\":\"med 2\",\"dosage\":\"2\",\"form\":null,\"instructions\":\"1 par jour - \",\"is_favorite\":false}]",
+    "pdf_path": "/home/nabi/.local/share/com.nabi.tauri-app/prescriptions/prescription_one_20260111_161149.pdf"
   }
 ]
