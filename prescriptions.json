@@ -19,5 +19,19 @@
     "date": "2026-01-11T16:00:15.124491298",
     "data": "[{\"id\":\"eaf05142-e091-45c3-9f6d-f01d1c119315\",\"name\":\"\",\"dosage\":null,\"form\":null,\"instructions\":\"1 par jour - \",\"is_favorite\":false}]",
     "pdf_path": "/home/nabi/.local/share/com.nabi.tauri-app/prescriptions/prescription__20260111_160015.pdf"
+  },
+  {
+    "id": "8d0911bc-0443-4d75-abf5-234cb17beabb",
+    "patient_id": "a748f170-1a04-4b68-8156-ab6a9307818c",
+    "date": "2026-01-11T16:07:15.247097033",
+    "data": "[{\"id\":\"4a0801c0-b494-4df1-bce4-377482912ef4\",\"name\":\"med 1\",\"dosage\":\"2\",\"form\":null,\"instructions\":\"1 par jour - cc\",\"is_favorite\":false}]",
+    "pdf_path": "/home/nabi/.local/share/com.nabi.tauri-app/prescriptions/prescription_one_20260111_160715.pdf"
+  },
+  {
+    "id": "f0cf23ab-c300-4847-99dc-c95c598d8c4e",
+    "patient_id": "a748f170-1a04-4b68-8156-ab6a9307818c",
+    "date": "2026-01-11T16:10:43.494600045",
+    "data": "[{\"id\":\"7c8f59ce-ab4b-452a-a963-8a5d22129806\",\"name\":\"med 1\",\"dosage\":\"2\",\"form\":null,\"instructions\":\"1 par jour - cc\",\"is_favorite\":false}]",
+    "pdf_path": "/home/nabi/.local/share/com.nabi.tauri-app/prescriptions/prescription_one_20260111_161043.pdf"
   }
 ]
