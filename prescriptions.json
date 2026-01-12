@@ -54,5 +54,12 @@
     "date": "2026-01-11T16:33:40.640374722",
     "data": "[{\"id\":\"cb488f01-efc4-4df1-9e8c-0df92acccaea\",\"name\":\"med 1\",\"dosage\":\"1\",\"form\":null,\"instructions\":\"1 par jour - dd\",\"is_favorite\":false},{\"id\":\"9c96431d-5fc2-4bce-a6c8-1d2f80575bf5\",\"name\":\"med 2\",\"dosage\":\"2\",\"form\":null,\"instructions\":\"1 par jour - \",\"is_favorite\":false}]",
     "pdf_path": "/home/nabi/Dev/personal/ramdani/src-tauri/prescription_Bensalem_20260111.pdf"
+  },
+  {
+    "id": "5f6767fb-eba4-4e52-932f-63815e36cd45",
+    "patient_id": "805953cf-08e0-40a9-9e9a-344a42768c3d",
+    "date": "2026-01-12T14:57:52.925278711",
+    "data": "[{\"id\":\"6b17fec5-89c2-4b3d-9c02-2377d196c83b\",\"name\":\"Tarreg\",\"dosage\":\"160\",\"form\":null,\"instructions\":\"1 par jour - matin\",\"is_favorite\":false},{\"id\":\"acf72689-5a1a-4f9e-b030-b0ae367c578c\",\"name\":\"med 1\",\"dosage\":\"1\",\"form\":null,\"instructions\":\"1 par jour - dd\",\"is_favorite\":false}]",
+    "pdf_path": "/home/nabi/Dev/personal/ramdani/src-tauri/prescription_Bensalem_20260112.pdf"
   }
 ]
