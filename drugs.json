@@ -22,5 +22,21 @@
     "form": "k",
     "instructions": "cc",
     "is_favorite": false
+  },
+  {
+    "id": "d3664a5a-26ee-4b28-aa9c-eb339c89838a",
+    "name": "Tarreg",
+    "dosage": "80",
+    "form": "Comprime",
+    "instructions": "matin",
+    "is_favorite": true
+  },
+  {
+    "id": "85d37a79-1a9e-4a16-88ac-7e2038ae6206",
+    "name": "Tarreg",
+    "dosage": "160",
+    "form": "Comprime",
+    "instructions": "matin",
+    "is_favorite": true
   }
 ]
