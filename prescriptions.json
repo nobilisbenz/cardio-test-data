@@ -61,5 +61,12 @@
     "date": "2026-01-12T14:57:52.925278711",
     "data": "[{\"id\":\"6b17fec5-89c2-4b3d-9c02-2377d196c83b\",\"name\":\"Tarreg\",\"dosage\":\"160\",\"form\":null,\"instructions\":\"1 par jour - matin\",\"is_favorite\":false},{\"id\":\"acf72689-5a1a-4f9e-b030-b0ae367c578c\",\"name\":\"med 1\",\"dosage\":\"1\",\"form\":null,\"instructions\":\"1 par jour - dd\",\"is_favorite\":false}]",
     "pdf_path": "/home/nabi/Dev/tools/For-Ramdani-app/src-tauri/prescription_Bensalem_20260403.pdf"
+  },
+  {
+    "id": "719fe5db-d518-4aba-830e-9f1c62e1b2ad",
+    "patient_id": "196ce3e3-5332-4b51-adb0-7ab82fe99dcd",
+    "date": "2026-04-03T14:25:30.389015280",
+    "data": "[{\"id\":\"1cef9fd9-022d-467c-b1b6-54e70489548e\",\"name\":\"5-FLUOROURACIL EBEWE\",\"dosage\":\"50MG/ML**  (OU 250MG/5ML -  500MG/10ML -  1000MG/20ML)\",\"form\":null,\"instructions\":\"1 par jour - 5-FLUOROURACILE HYDROXYDE DE SODIUM EXPRIME EN 5-FLUOROURACILE\",\"is_favorite\":false}]",
+    "pdf_path": "/home/nabi/Dev/tools/For-Ramdani-app/src-tauri/prescription_Bensalem_20260403.pdf"
   }
 ]
